@@ -2,7 +2,6 @@
 
 This repository contains multiple **Python projects and experiments**, including programs for **Hotel Management System**, **Digital Image Processing (DIP)**, and other utility-based projects. The repo also includes sample datasets, images, and audio files that support the implementation of these projects.
 
----
 
 ## Contents
 
@@ -21,7 +20,6 @@ This repository contains multiple **Python projects and experiments**, including
   * Excel dataset (`hotel_data.xlsx`) used by the Hotel Management System.
   * Audio files used in the Alarm project.
 
----
 
 ## How to Use
 
@@ -37,7 +35,6 @@ This repository contains multiple **Python projects and experiments**, including
    ```
 3. Navigate to the desired `.ipynb` file and run the code cells.
 
----
 
 ## Requirements
 
@@ -45,16 +42,9 @@ This repository contains multiple **Python projects and experiments**, including
 * Jupyter Notebook
 * Required libraries (install with `pip install -r requirements.txt` if added later)
 
----
 
 ## Applications
 
 * **Hotel Management System** → Demonstrates handling of structured business data using Python.
 * **Digital Image Processing (DIP)** → Useful for learning image processing techniques.
 * **Alarm Clock** → Basic project showing Python integration with audio handling.
-
----
-
-## Author
-
-Developed and maintained by **Aditya Raj Sahu**.
